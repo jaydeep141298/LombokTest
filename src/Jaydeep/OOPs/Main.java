@@ -7,5 +7,6 @@ public class Main {
         Jaron jq = new Jaron("Lola","Solla");
         System.out.println("Hello Jaydeep2");
         System.out.println("Hello Ashlan");
+        System.out.println("Putta");
     }
 }
