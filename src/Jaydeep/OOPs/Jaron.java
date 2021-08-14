@@ -27,5 +27,12 @@ public class Jaron {
         System.out.println("Has raha hu");
     }
 
+  public void hasna2(){
+    System.out.println("Has raha hu2");
+  }
+
+
+
+
 
 }
