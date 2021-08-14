@@ -4,5 +4,6 @@ public class Hudda {
 
     int x;
     int y;
+    int  z;
 
 }
